@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moments on </title>
+    <link>https://hrz-gh.github.io/moments/moments/</link>
+    <description>Recent content in Moments on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sun, 31 Dec 2023 00:16:18 +0800</lastBuildDate><atom:link href="https://hrz-gh.github.io/moments/moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://hrz-gh.github.io/moments/moments/2/</link>
+      <pubDate>Sun, 31 Dec 2023 00:16:18 +0800</pubDate>
+      
+      <guid>https://hrz-gh.github.io/moments/moments/2/</guid>
+      <description>等了大半年，最近的Wonder3D也体验了，ai建模还是基本不可用，想做点3d打印的东西，还是选择直接正式入坑建模了，其他几张图是2023的一些app的年度报告。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hrz-gh.github.io/moments/moments/1/</link>
+      <pubDate>Sun, 24 Dec 2023 13:58:25 +0800</pubDate>
+      
+      <guid>https://hrz-gh.github.io/moments/moments/1/</guid>
+      <description>折腾会3dmaxs建模，搞个房子先。</description>
+    </item>
+    
+  </channel>
+</rss>
